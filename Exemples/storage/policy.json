@@ -1,0 +1,29 @@
+{
+    "rules": [
+      {
+        "enabled": true,
+        "name": "Cycledevie",
+        "type": "Lifecycle",
+        "definition": {
+          "actions": {
+            "baseBlob": {
+              "tierToCool": {
+                "daysAfterModificationGreaterThan": 7
+              },
+              "tierToArchive": {
+                "daysAfterModificationGreaterThan": 30
+              },
+              "delete": {
+                "daysAfterModificationGreaterThan": 365
+              }
+            }
+          },
+          "filters": {
+            "blobTypes": [
+              "blockBlob"
+            ]
+          }
+        }
+      }
+    ]
+  }

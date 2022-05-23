@@ -1,0 +1,17 @@
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\obj\Debug\net6.0\msal.csproj.AssemblyReference.cache
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\obj\Debug\net6.0\msal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\obj\Debug\net6.0\msal.AssemblyInfoInputs.cache
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\obj\Debug\net6.0\msal.AssemblyInfo.cs
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\obj\Debug\net6.0\msal.csproj.CoreCompileInputs.cache
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\bin\Debug\net6.0\msal.exe
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\bin\Debug\net6.0\msal.deps.json
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\bin\Debug\net6.0\msal.runtimeconfig.json
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\bin\Debug\net6.0\msal.dll
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\bin\Debug\net6.0\msal.pdb
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\obj\Debug\net6.0\msal.csproj.CopyComplete
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\obj\Debug\net6.0\msal.dll
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\obj\Debug\net6.0\refint\msal.dll
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\obj\Debug\net6.0\msal.pdb
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\obj\Debug\net6.0\msal.genruntimeconfig.cache
+C:\Users\lmalt\OneDrive - MSTECS\Escritorio\msal\obj\Debug\net6.0\ref\msal.dll
